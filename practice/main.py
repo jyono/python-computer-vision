@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib.pyplot as plt
+from PIL import Image
 
 mylist = [1, 2, 3]
 arr = np.array(mylist)
